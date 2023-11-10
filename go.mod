@@ -26,6 +26,6 @@ require (
 )
 
 replace (
-	golang.org/x/tools => github.com/goplus/tools v0.0.0-20231109152055-5d926c0a4271
-	golang.org/x/tools/gopls => github.com/goplus/tools/gopls v0.0.0-20231109152055-5d926c0a4271
+	golang.org/x/tools => github.com/goplus/tools v0.0.0-20231110045156-5043a1841e24
+	golang.org/x/tools/gopls => github.com/goplus/tools/gopls v0.0.0-20231110045156-5043a1841e24
 )

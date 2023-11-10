@@ -17,10 +17,10 @@ github.com/goplus/gox v1.12.2-0.20231103090303-19b970256b0e/go.mod h1:MOJnwqA8/r
 github.com/goplus/mod v0.11.8/go.mod h1:yl2QncBKTdXk+8UaNsdo4u2zSpGEJYA5JKjgD3K2h00=
 github.com/goplus/mod v0.11.9-0.20231109071516-10181f604669 h1:qVQwTKRmA94owOCGDvR7um4VmCw5b6LJWAvFkifA9f0=
 github.com/goplus/mod v0.11.9-0.20231109071516-10181f604669/go.mod h1:YxrBMhvWGcvLU14j8e7qyKSVnj5Loba7GgH1rNXJtDg=
-github.com/goplus/tools v0.0.0-20231109152055-5d926c0a4271 h1:1XhgxwLqKRX0j+i6YCLvKtWeUGfkDGuVlVnZ3XQJqL0=
-github.com/goplus/tools v0.0.0-20231109152055-5d926c0a4271/go.mod h1:HqKESNStpAXQoHZh7LeGjJSuSpr2HiqJKMEwFNzKEbc=
-github.com/goplus/tools/gopls v0.0.0-20231109152055-5d926c0a4271 h1:uzJPy0IlYvX2xf56nkS9u5yOro2+gAYXejvdKcS3QdQ=
-github.com/goplus/tools/gopls v0.0.0-20231109152055-5d926c0a4271/go.mod h1:ixXmRDEKVCivT1mslrk4UGbqp33GjAWTe9uExqh3h+0=
+github.com/goplus/tools v0.0.0-20231110045156-5043a1841e24 h1:4x8YyixDEO5qcmpTImB34xTjt3cEJsvljXyVtcdrUR4=
+github.com/goplus/tools v0.0.0-20231110045156-5043a1841e24/go.mod h1:HqKESNStpAXQoHZh7LeGjJSuSpr2HiqJKMEwFNzKEbc=
+github.com/goplus/tools/gopls v0.0.0-20231110045156-5043a1841e24 h1:e1iofV4uGWe2DSByknif5DpqzmwF/5tVttG7uml3tTU=
+github.com/goplus/tools/gopls v0.0.0-20231110045156-5043a1841e24/go.mod h1:ixXmRDEKVCivT1mslrk4UGbqp33GjAWTe9uExqh3h+0=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pretty v0.3.0 h1:WgNl7dwNpEZ6jJ9k1snq4pZsg7DOEN8hP9Xw0Tsjwk0=
