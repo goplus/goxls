@@ -7,5 +7,5 @@ package main
 import "golang.org/x/tools/gopls/goxls"
 
 func main() {
-	goxls.Main()
+	goxls.Main(goxls.FlagsRelease)
 }
