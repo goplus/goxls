@@ -8,4 +8,4 @@ goxls - the Go/Go+ Language Server
 
 ## How to install
 
-`gop install github.com/goplus/goxls@main`
+`gop install github.com/goplus/goxls@latest`
