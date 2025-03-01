@@ -8,7 +8,7 @@ require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/goplus/gogen v1.16.6 // indirect
-	github.com/goplus/gop v1.3.1 // indirect
+	github.com/goplus/gop v1.3.5 // indirect
 	github.com/goplus/mod v0.13.17 // indirect
 	github.com/qiniu/x v1.13.12 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
